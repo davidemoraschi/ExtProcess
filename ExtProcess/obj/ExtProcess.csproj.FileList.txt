@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\ExtProcess.exe
+bin\Debug\ExtProcess.pdb
+obj\Debug\ExtProcess.exe
+obj\Debug\ExtProcess.pdb
+bin\Release\ExtProcess.exe
+bin\Release\ExtProcess.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\ExtProcess.exe
+obj\Release\ExtProcess.pdb
